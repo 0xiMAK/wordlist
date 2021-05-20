@@ -901,6 +901,7 @@ admass
 admeasure
 admeasurement
 admetus
+admin
 adminicle
 administer
 administrate
@@ -2947,7 +2948,7 @@ amylose
 amylum
 amyotonia
 amytal
-am‚lie
+amÂ‚lie
 an
 ana
 anaanabaena
